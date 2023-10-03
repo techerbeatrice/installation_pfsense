@@ -14,6 +14,8 @@ Création de la VM PfSense
 ________
 
 Configuration des 2 interfaces dans la partie réseau   
+Une interface constitue l'accès à l'extérieur via **un pont**, appelé **WAN** du point de vue de pfSense   
+L'autre sert de connexion avec **réseau interne** que pfSense appelle **LAN**    
 
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/f1b9f30c-2424-488d-857a-71a3356da60f)
 
@@ -28,6 +30,7 @@ A cette étape d'installation, appuyer sur la barre d'espace pour valider le dis
 ____
 
 Au redémarrage, affichage des 2 interfaces wan et lan  
-PfSense a attribué l'interface wan à em0 et a récupéré une adresse IP, il a attribué également l'interface lan à em1 et a récupéré une adresse IP   
+PfSense a attribué l'interface wan à em0 et a récupéré une adresse IP,   
+il a attribué également l'interface lan à em1 et a récupéré une adresse IP   
 
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/faef0ca0-e500-4b08-aca1-b14fe9a00f8c)
