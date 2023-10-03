@@ -24,3 +24,10 @@ _____
 A cette étape d'installation, appuyer sur la barre d'espace pour valider le disque sélectionné   
 
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/fca55ae5-c4a2-49e3-974c-9c896aec15b5)
+
+____
+
+Au redémarrage, affichage des 2 interfaces wan et lan  
+PfSense a attribué l'interface wan à em0 et a récupéré une adresse IP, il a attribué également l'interface lan à em1 et a récupéré une adresse IP   
+
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/faef0ca0-e500-4b08-aca1-b14fe9a00f8c)
