@@ -1,7 +1,7 @@
 # Installation du firewall PfSense
 ___
 
-Après avoir installé l'image iso sur le site officiel  
+Après avoir téléchargé l'image iso du site officiel  
 
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/3b778182-9eff-4a20-90f1-decc221a016b)
 
