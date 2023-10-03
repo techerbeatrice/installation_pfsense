@@ -19,3 +19,8 @@ Configuration des 2 interfaces dans la partie réseau
 
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/0ab05f92-6db2-44eb-8441-513b6fead3ee)
 
+_____
+
+A cette étape d'installation, appuyer sur la barre d'espace pour valider le disque sélectionné   
+
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/fca55ae5-c4a2-49e3-974c-9c896aec15b5)
