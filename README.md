@@ -34,3 +34,13 @@ PfSense a attribué l'interface wan à em0 et a récupéré une adresse IP,
 il a attribué également l'interface lan à em1 et a récupéré une adresse IP   
 
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/faef0ca0-e500-4b08-aca1-b14fe9a00f8c)
+
+____
+
+Modifier l'adresse IP l'interface lan pour pouvoir administrer pfsense à partir d'une vm qui sera dans le réseau interne   
+
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/705013b4-2fd4-48fd-9ed0-5a2c0549251e)
+
+
+
+
