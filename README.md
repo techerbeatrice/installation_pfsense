@@ -44,6 +44,11 @@ on peut administer pfsense via **https://192.168.2.1** qui est l'interface graph
 
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/0190869a-b3fc-43d4-bf3b-06efc2857fbc)
 
+____
+
+Créer deux machines virtuelles : une pour le poste d'administration et une pour le client test.   
+Les deux machines virtuelles sont connectées à l'interface LAN de pfSense.   
+
 
 
 
