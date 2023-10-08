@@ -51,6 +51,10 @@ ____
 Créer deux machines virtuelles : une pour le poste d'administration et une pour le client test.   
 Les deux machines virtuelles sont connectées à l'interface LAN de pfSense.   
 
+____
+ VM poste d'administration pfsense, login par défaut  **admin / pfsense** :    
+ 
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/292f1022-e715-4470-9dec-1793bc39949a)
 
 
 
