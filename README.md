@@ -44,6 +44,8 @@ on peut administer pfsense via **http://192.168.2.254** qui est l'interface grap
 
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/21d22605-469f-44b1-a206-38fe35fbd641)
 
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/07ecaa95-b59a-49f5-860a-d29360cdf9cb)
+
 ____
 
 Créer deux machines virtuelles : une pour le poste d'administration et une pour le client test.   
