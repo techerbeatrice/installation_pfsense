@@ -56,5 +56,20 @@ ____
  
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/292f1022-e715-4470-9dec-1793bc39949a)
 
+___
+
+Attribuer une ip statique à la VM cliente et vérifier qu'elle a accès à internet    
+
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/fc4deab7-5150-4907-964a-17dc4f059844)
+
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/c268b6f3-514e-4c79-b6c7-b20b96d498e4)
+
+____
+
+Mettre en place une règle de filtrage réseau sur pfsense pour interdire à la machine cliente de sortir du réseau interne   
+
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/4a318a5e-95b0-4836-8947-996bcdf62fc6)
+
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/6a657649-909e-4645-9de1-6c067537b9d5)
 
 
