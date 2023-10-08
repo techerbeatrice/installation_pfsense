@@ -72,4 +72,12 @@ Mettre en place une règle de filtrage réseau sur pfsense pour interdire à la 
 
 ![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/6a657649-909e-4645-9de1-6c067537b9d5)
 
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/212963bc-e907-4969-9fc8-c84c2e6df83c)
+
+____
+
+Vérification que la VM cliente ne puisse plus accéder à internet   
+
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/fa70a4ec-a91c-4281-9282-1176d2486bb8)
+
 
