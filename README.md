@@ -38,11 +38,11 @@ il a attribué également l'interface lan à em1 et a récupéré une adresse IP
 ____
 
 Modifier l'adresse IP l'interface lan pour pouvoir administrer pfsense à partir d'une vm qui sera dans le réseau interne   
-Dans notre cas, j'ai attribué l'IP 192.168.2.1 /24 à l'interface lan   
+Dans notre cas, j'ai attribué l'IP 192.168.2.254 /24 à l'interface lan   
 
-on peut administer pfsense via **https://192.168.2.1** qui est l'interface graphique de gestion de pfsense      
+on peut administer pfsense via **http://192.168.2.254** qui est l'interface graphique de gestion de pfsense      
 
-![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/0190869a-b3fc-43d4-bf3b-06efc2857fbc)
+![image](https://github.com/techerbeatrice/installation_pfsense/assets/138071140/21d22605-469f-44b1-a206-38fe35fbd641)
 
 ____
 
